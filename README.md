@@ -642,3 +642,5 @@ This page is focused on descriptive analytics and basic statistics. The main tas
 [GitHub Profile](https://github.com/shamiraty/)
 
 
+#   s t g  
+ 

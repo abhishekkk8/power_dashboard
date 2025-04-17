@@ -4,7 +4,7 @@ Markdown
 markdown-it-py
 MarkupSafe
 matplotlib
-numeriz==0.12
+numeriz==0.3.2
 numpy
 oauthlib
 openpyxl
